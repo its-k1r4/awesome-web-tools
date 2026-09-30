@@ -4,6 +4,18 @@ A curated collection of useful, free web-based tools for developers, writers, st
 
 Tools are selected for practical value, accessibility, and quality — not for promotion or backlinks. Most tools can be used directly in the browser without installation or mandatory sign-up.
 
+
+### k1r4.space Tools
+
+**Free, client-side developer tools — no dependencies, no tracking, no signup required**
+
+- [Kanban Board](https://k1r4.space/kanban-board.html) — Drag-and-drop task manager with localStorage persistence
+- [Pomodoro Timer](https://k1r4.space/pomodoro-timer.html) — Focus timer with animated progress ring
+- [CSS Gradient Generator](https://k1r4.space/css-gradient-generator.html) — Create gradients with 24 presets
+- [JSON Formatter](https://k1r4.space/json-formatter.html) — Format and validate JSON
+- [Regex Tester](https://k1r4.space/regex-tester.html) — Test regular expressions live
+- [Markdown Editor](https://k1r4.space/markdown-editor.html) — Split-pane markdown editor with live preview
+
 ## Contents
 
 - [Text Tools](#text-tools)
